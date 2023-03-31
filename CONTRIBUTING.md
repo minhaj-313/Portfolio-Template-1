@@ -4,17 +4,17 @@
 
 If you have found an issue or would like to request a new feature, simply create a new issue detailing the request. We also welcome pull requests. See below for information on getting started with development and submitting pull requests.
 
-Please note we have a [code of conduct](/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+Please note we have a [code of conduct](https://github.com/minhaj-313/Portfolio-Template-1/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 ## Found an Issue?
 
 If you find a bug in the source code or a mistake in the documentation, you can help us by
-submitting an issue to our [GitHub Repository](/issues/new). Even better you can submit a Pull Request
+submitting an issue to our [GitHub Repository](https://github.com/minhaj-313/Portfolio-Template-1/issues/new). Even better you can submit a Pull Request
 with a fix.
 
 ## Submitting a Pull Request
 
-1. Make sure that the contribution you want to make is explained or detailed in a GitHub issue! Find an [existing issue](https://github.com/arifszn/gitprofile/issues) or [open a new one](https://github.com/arifszn/gitprofile/issues/new).
+1. Make sure that the contribution you want to make is explained or detailed in a GitHub issue! Find an [existing issue](https://github.com/minhaj-313/Portfolio-Template-1/issues) or [open a new one](https://github.com/minhaj-313/Portfolio-Template-1/issues/new).
 2. Once done, [fork the repository](/fork) in your own GitHub account.
 3. [Create a new Git branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository).
 4. Make the changes on your branch.
